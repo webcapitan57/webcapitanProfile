@@ -1,7 +1,5 @@
 ### Hi there. 👋
 
-## Senior .Net ∕ Azure ∕ Javascript engineer.
-
 ## PROFESSIONAL SUMMARY
 Highly-skilled software consultant bringing more than 15+ years in software design, development and integration. Well versed in Azure Cloud Computing & Full Stack .NET development using C#, Angular,React and SQL Server.
 
@@ -24,6 +22,7 @@ Machine Learning: Pytorch, Tensorflow, Keras
 ### Connect with me:
 
 <img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.77ec1b20af853a70
+<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /> brightsolutions4@outlook.com
 <br />
 ### Languages and Tools:
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />

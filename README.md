@@ -2,15 +2,15 @@
 
 ## Senior .Net ∕ Azure ∕ Javascript engineer.
 
-PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
 Highly-skilled software consultant bringing more than 15+ years in software design, development and integration. Well versed in Azure Cloud Computing & Full Stack .NET development using C#, Angular,React and SQL Server.
 
 Also, I am proficient in Machine Learning. Recently, artificial intelligence (AI) and machine learning make it possible for the customer to have automated, personalized shopping experiences. If clients wanna use AI in your eCommerce site, you can choose me.
 
-TOP SKILLS
-● Languages- Microsoft C#.NET,.ASP.NETCore, .NET6.0, C#9.0, Azure Cloud Computing, Java, C++
-● Database- SQL Server ,Oracle,
-● UI framework, Libraries, Scripting Language – Javascript, Angular 12, Typescript, React, JSX, NodeJs, Windows PowerShell
+## TOP SKILLS
+- Languages- Microsoft C#.NET,.ASP.NETCore, .NET6.0, C#9.0, Azure Cloud Computing, Java, C++
+- Database- SQL Server ,Oracle,
+- UI framework, Libraries, Scripting Language – Javascript, Angular 12, Typescript, React, JSX, NodeJs, Windows PowerShell
 ● Web Development - ASP.NETCore, ASP .NET, Web Api 2.0
 ● Web Server- IIS
 ● Version Control- GIT, TFS SVN

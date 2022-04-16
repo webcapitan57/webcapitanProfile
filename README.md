@@ -11,13 +11,13 @@ Also, I am proficient in Machine Learning. Recently, artificial intelligence (AI
 - Languages- Microsoft C#.NET,.ASP.NETCore, .NET6.0, C#9.0, Azure Cloud Computing, Java, C++
 - Database- SQL Server ,Oracle,
 - UI framework, Libraries, Scripting Language – Javascript, Angular 12, Typescript, React, JSX, NodeJs, Windows PowerShell
-● Web Development - ASP.NETCore, ASP .NET, Web Api 2.0
-● Web Server- IIS
-● Version Control- GIT, TFS SVN
-● Latest VS IDE- VS 2022, VS Code 1.29
-● Software methodologies- Agile (scrum & lean), Iterative, Waterfall
+- Web Development - ASP.NETCore, ASP .NET, Web Api 2.0
+- Web Server- IIS
+- Version Control- GIT, TFS SVN
+- Latest VS IDE- VS 2022, VS Code 1.29
+- Software methodologies- Agile (scrum & lean), Iterative, Waterfall
 Document Database- Mongodb 4.0
-● ORM – Entity Framework, iBatis, Doodads
+- ORM – Entity Framework, iBatis, Doodads
 
 Machine Learning: Pytorch, Tensorflow, Keras
 

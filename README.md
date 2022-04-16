@@ -1,9 +1,9 @@
 ### Hi there. 👋
 
-## Senior .Net∕ Azure ∕Javascript engineer.
+## Senior .Net ∕ Azure ∕ Javascript engineer.
 
 - 🔭 I'm a full time developer.
-- 🌱 I'm a Software Engineer, specialized in Javascript,C#, Python.
+- 🌱 I'm a Software Engineer, specialized in Javascript, C#, Python.
 
 ### Connect with me:
 

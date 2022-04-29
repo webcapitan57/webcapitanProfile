@@ -45,3 +45,5 @@ Machine Learning: Pytorch, Tensorflow, Keras
 
 <br />
 <br />
+
+<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yaroslav1872&show_icons=true&hide_border=true&theme=dark&hide_title=true" />
